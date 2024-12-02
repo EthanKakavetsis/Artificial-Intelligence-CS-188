@@ -14,3 +14,7 @@ Project 4: Tracking
 
 Pacman uses probabilistic inference on Bayes Nets and the forward algorithm and particle sampling in a Hidden Markov Model to find ghosts given noisy readings of distances to them.
 
+Project 5: Machine Learning
+
+Students implement the perceptron algorithm, neural network, and recurrent nn models, and apply the models to several tasks including digit classification and language identification.
+
